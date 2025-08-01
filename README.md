@@ -1,80 +1,85 @@
-<div align="center">
-  <img height="170" src="http://github.com/project-serum/awesome-serum/blob/master/logo-serum.png?raw=true" />
+# Afghan.coin (AFG)
 
-  <h1>serum-dex</h1>
+Afghan.coin (AFG) is a decentralized meme token built on the Solana blockchain.  
+It aims to bring the Afghan community together in the Web3 space through transparency, fairness, and creative use of blockchain technology.
 
-  <p>
-    <strong>Project Serum Rust Monorepo</strong>
-  </p>
+---
 
-  <p>
-    <a href="https://travis-ci.com/project-serum/serum-dex"><img alt="Build Status" src="https://travis-ci.com/project-serum/serum-dex.svg?branch=master" /></a>
-    <a href="https://discord.com/channels/739225212658122886"><img alt="Discord Chat" src="https://img.shields.io/discord/739225212658122886?color=blueviolet" /></a>
-    <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/github/license/project-serum/serum-dex?color=blue" /></a>
-  </p>
+## 🔒 Security Summary
 
-  <h4>
-    <a href="https://projectserum.com/">Website</a>
-    <span> | </span>
-    <a href="https://discord.gg/HSeFXbqsUX">Discord</a>
-    <span> | </span>
-    <a href="https://github.com/project-serum/awesome-serum">Awesome</a>
-    <span> | </span>
-    <a href="https://dex.projectserum.com/#/">DEX</a>
-    <span> | </span>
-    <a href="https://github.com/project-serum/serum-ts">TypeScript</a>
-  </h4>
-</div>
+AFG has implemented all key protective measures to ensure investor confidence and full decentralization:
 
-## Program Deployments
+- ✅ **Mint Authority Revoked** – No more AFG tokens can ever be minted.
+- ✅ **Freeze Authority Revoked** – No wallets can be frozen or blocked.
+- ✅ **Token Configuration is Immutable** – No upgrades or changes to contract.
+- ✅ **Ownership Renounced** – No admin control or central authority remains.
+- ✅ **LP Tokens Locked Until July 30, 2026** – Viewable on-chain.
+- ✅ **No Hidden Fees** – 0% transfer or trade tax.
+- ✅ **Open Source & Transparent** – Full code and documentation are public.
 
-| Program | Devnet | Mainnet Beta |
-| --------|--------|------------- |
-| [DEX](/dex)     | `DESVgJVGajEgKGXhb6XmqDHGz3VjdgP7rEVESBgxmroY` | `9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin` |
+🔗 All details are documented in the [Whitepaper (v1.2)](https://github.com/Afghancoin1/Afghan.coin/blob/main/whitepaper.md#-token-security--transparency)
 
-## Note
+---
 
-* **Serum is in active development so all APIs and protocols are subject to change.**
-* **The code is unaudited. Use at your own risk.**
+## 🪙 Token Information
 
-## Contributing
+- **Token Name:** Afghan.coin  
+- **Symbol:** AFG  
+- **Mint Address:** `4rxmCJLt2fsCkofAKwU6wMveD4nWoTkRHF7FbHchu6yH`  
+- **Decimals:** 9  
+- **Chain:** Solana (Mainnet, Chain ID: 101)  
+- **Logo:** ![AFG Logo](https://raw.githubusercontent.com/Afghancoin1/Afghan.coin/main/logo.png)  
+- **Tags:** meme, community, safe, no-mint, locked-liquidity  
 
-### Install Rust
+---
 
-```bash
-curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-source $HOME/.cargo/env
-rustup component add rustfmt
-```
+## 📊 Token Allocation
 
-On Linux systems you may need to install additional dependencies. On Ubuntu,
+| Allocation                            | Percentage |
+|--------------------------------------|------------|
+| Locked Tokens (until May 16, 2026)   | 30%        |
+| Liquidity Pool (Raydium / OpenBook)  | 25%        |
+| Airdrop                              | 5%         |
+| Project Treasury, Team & Marketing   | 20%        |
+| Reserve / Future Use                 | 20%        |
 
-```bash
-sudo apt-get install -y pkg-config build-essential python3-pip jq
-```
+---
 
-### Install Solana
+## 🔐 Locked Wallet
 
-Directions can be found [here](https://docs.solana.com/cli/install-solana-cli-tools#use-solanas-install-tool).
+To ensure transparency and long-term commitment, 30% of the total supply has been locked in a separate wallet until **May 16, 2026**.
 
-### Download the source
+- **Locked Wallet Address:** `E2LzK9p57mEQCjAoeApfh2LQWk9Nf37y9DjAHwzNPUb1`
 
-```bash
-git clone https://github.com/project-serum/serum-dex.git
-```
+No tokens will be moved or utilized from this wallet before the unlock date.
 
-### Build, deploy, and test programs
+---
 
-See individual crates for documentation. For example, to build the dex see its [README](https://github.com/project-serum/serum-dex/tree/master/dex).
+## 🔒 LP Token Lock
 
-## Running a local Solana cluster
+All liquidity pool (LP) tokens are locked in a separate wallet until **July 30, 2026** to prevent rug pulls and maintain market integrity.
 
-The easiest way to run a local cluster is to use [solana-test-validator](https://docs.solana.com/developing/test-validator).
+- **LP Locked Wallet Address:** `52fDombypDrutFMceRMGDCMZG2qz5z7Ersw13GkMgq4Y`
 
-## Directories
+---
 
-* `assert-owner`: Solana utility program for checking account ownership.
-* `common`: Common rust utilities.
-* `dex`: Serum DEX program and client utility.
-* `pool`: Serum pool protocol.
-* `scripts`: Bash scripts for development.
+## 📣 Community & Socials
+
+- **YouTube:** [@AFGtoken](https://youtube.com/@AFGtoken)  
+- **Twitter (X):** [@AFGtoken](https://x.com/AFGtoken)  
+- **TikTok:** [@AFGtoken](https://tiktok.com/@AFGtoken)  
+- **Telegram:** [@AFGtoken2](https://t.me/boost/AFGtoken2)
+
+---
+
+## 📝 Notes
+
+- Liquidity is currently reduced temporarily while an OpenBook market is being established to prevent early price manipulation.  
+- Airdrops will be conducted from a separate wallet, not from the locked wallet, to maintain lock integrity.  
+- Token ownership has been renounced and cannot be recovered — ensuring full decentralization.
+
+---
+
+*This README serves as an official and transparent overview of the Afghan.coin project and will be updated as new developments occur.*
+
+_Last updated: August 1, 2025_
